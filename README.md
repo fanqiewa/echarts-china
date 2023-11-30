@@ -1,2 +1,2 @@
 # echarts-china
-中国地图
+echarts中国地图json数据
